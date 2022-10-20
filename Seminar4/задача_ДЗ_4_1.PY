@@ -17,4 +17,4 @@ n = n.replace('0.', '')
 for i in n:
     count+=1
 
-print(f'Число {x:.{count}f}
+print(f'Число {x:.{count}f})
